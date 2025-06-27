@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "src": "/images/web image.jpeg",
+      "title": "Mexo car (Admin Dashboard)",
+      "description": "Developed a responsive admin dashboard using Flutter Web for Mexo Car, a mobile-based e-commerce application. The web dashboard empowers administrators with intuitive controls for efficient content management, product administration, order monitoring, and user management. Team work project, I worked on creating UI, handle requests from API, building logic using Bloc stage- management.",
+      "website_link": "https://mexo-car-staging.web.app",
+      "app_store_link": "",
+      "play_store_link": ""
+    },
+    {
+      "id": 2,
+      "src": "/images/maxo app.jpg",
+      "title": "Mexo car app",
+      "description": "online store application for buying and selling car parts.Team work project, I worke on creating UI, handle requests from API, building logic using Bloc stage-management, getting user location from map. And Messaging with shops.",
+      "website_link": "",
+      "app_store_link": "",
+      "play_store_link": "https://play.google.com/store/apps/details?id=com.powerwebsolution.mexo.car.app"
+    },
+    {
+      "id": 3,
+      "src": "/images/shark app.jpg",
+      "title": "App Shark",
+      "description": "App Shark is a powerful tool that helps you discover apps installed on your device and analyze the evidence they've been identified for. The app lets you see if apps use technologies like Flutter, React, Xamarin, Ionic, and Native. It provides detailed information about the tools and technologies developers use, giving you a great insight into how the apps you use every day are developed. Discover the latest apps and the most useful information about most apps.",
+      "website_link": "",
+      "app_store_link": "",
+      "play_store_link": "https://play.google.com/store/apps/details?id=com.sharktech.app_shark"
+    },
+    {
+      "id": 4,
+      "src": "/images/Ms  Jacob And Partners.jpg",
+      "title": "Ms  Jacob And Partners",
+      "description": "Jacob & Partners is a premium investment insights app designed for a select group of members who are passionate about making informed investment decisions. Our app delivers exclusive reports, expert analysis, and up-to-date news on the best investment opportunities across various sectors. Users can engage with the content by sharing their thoughts, reacting to reports, and participating in discussions with like-minded investors. Whether you're a seasoned investor or just getting started, Jacob & Partners provides the tools and information you need to make smart investment choices",
+      "website_link": "",
+      "app_store_link": "https://apps.apple.com/eg/app/jacob-and-partners/id6738399621",
+      "play_store_link": "https://play.google.com/store/apps/details?id=com.jakub.jp"
+    },
+
+    {
+      "id": 5,
+      "src": "/images/Bio Mahmoud eid.png",
+      "title": "Bio Mahmoud eid.png",
+      "description": "Jacob & Partners is a premium investment insights app designed for a select group of members who are passionate about making informed investment decisions. Our app delivers exclusive reports, expert analysis, and up-to-date news on the best investment opportunities across various sectors. Users can engage with the content by sharing their thoughts, reacting to reports, and participating in discussions with like-minded investors. Whether you're a seasoned investor or just getting started, Jacob & Partners provides the tools and information you need to make smart investment choices",
+      "website_link": "",
+      "app_store_link": "",
+      "play_store_link": "https://play.google.com/store/apps/details?id=com.tabibsoft.elbiologyx"
+    },
+    {
+      "id": 6,
+      "src": "/images/Shifa call.jpg",
+      "title": "Shifa call",
+      "description": "A gateway to modern healthcare solutions connecting patients with trusted medical professionals through innovative digital platforms designed for convenience and reliability Online medical consultations enabling direct communication with qualified physicians via secure video and audio calls eliminating geographical barriers to quality healthcare Clinic appointment scheduling system streamlining the booking process across numerous medical specialties with transparent doctor availability and simplified reservation procedures Comprehensive patient profiles maintaining accurate health records including treatment history prescribed medications and diagnostic reports accessible anytime",
+      "website_link": "",
+      "app_store_link": "",
+      "play_store_link": ""
+    },
+    {
+      "id": 7,
+      "src": "/images/EgyHealthTrip.jpg",
+      "title": "EgyHealthTrip",
+      "description": "EgyHealthTrip is your trusted partner for medical tourism in Egypt, offering world-class healthcare services combined with unforgettable travel experiences. Our platform provides a user-friendly interface and multilingual support to ensure a seamless and comfortable journey for all our clients.al care to eye treatments and weight loss procedures, we connect you with top-tier medical professionals and state-of-the-art facilities. Additionally, we assist with visa arrangements, travel logistics, and personalized tourist itineraries to make your stay in Egypt as smooth and enjoyable as possible.",
+      "website_link": "",
+      "app_store_link": "",
+      "play_store_link": ""
+    }
+  ]
+}
