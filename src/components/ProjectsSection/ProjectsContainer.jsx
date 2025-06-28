@@ -13,7 +13,7 @@ import PreviosButtonSlider from "./PreviosButtonSlider";
 function ProjectsContainer() {
   const [projects, setProjects] = useState([]);
   useEffect(() => {
-    fetch("/public/data/projectsData.json")
+    fetch("/data/projectsData.json")
       .then((res) => res.json())
       .then((data) => {
         setProjects(data.projects);
