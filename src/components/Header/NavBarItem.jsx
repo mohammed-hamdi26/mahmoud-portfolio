@@ -1,6 +1,6 @@
 function NavBarItem({ title, url, onClick }) {
   const isActive = (href) => {
-    return url.includes(href) ? "text-background font-bold" : "text-text";
+    return url.includes(href) ? "text-white font-bold" : "text-gray-400";
   };
   return (
     <a
