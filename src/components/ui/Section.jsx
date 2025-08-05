@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import { useEffect, useRef } from "react";
+import { useRef } from "react";
 function Section({ title, description, children }) {
   const ref = useRef(null);
   // useEffect(() => {
@@ -42,7 +42,7 @@ function Section({ title, description, children }) {
       className="relative z-10"
     >
       <h2 className="text-text text-5xl md:text-8xl font-extrabold mb-10">
-        {title}.
+        {title}
       </h2>
       {description && (
         <p className="text-description text-lg md:text-2xl mb-32">

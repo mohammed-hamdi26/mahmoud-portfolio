@@ -9,8 +9,8 @@ function WelcomeSection() {
     >
       <PersonInfo />
       <Image
-        className="size-72 md:size-96 lg:size-120 xl:size-140 object-cover rounded-full overflow-hidden"
-        src={"/images/mahmoud.jpg"}
+        className="size-72 md:size-96 lg:size-120 xl:size-140 object-cover rounded-3xl overflow-hidden"
+        src={"/images/NM.jpg"}
         alt="mahmoud"
       />
     </div>

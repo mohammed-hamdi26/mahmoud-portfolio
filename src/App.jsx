@@ -1,12 +1,12 @@
+import { useState } from "react";
 import Header from "./components/Header/Header";
+import NavBarInMobile from "./components/Header/NavBarInMobile";
 import ProjectsContainer from "./components/ProjectsSection/ProjectsContainer";
+import AnimatedBackground from "./components/ui/AnimatedBackground";
+import MenuBar from "./components/ui/MenuBar";
 import Section from "./components/ui/Section";
 import VideosContainer from "./components/Videos/VideosContainer";
 import WelcomeSection from "./components/WellcomeSection/WelcomeSection";
-import AnimatedBackground from "./components/ui/AnimatedBackground";
-import NavBarInMobile from "./components/Header/NavBarInMobile";
-import MenuBar from "./components/ui/MenuBar";
-import { useState } from "react";
 
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -23,9 +23,8 @@ function App() {
       <WelcomeSection />
       <Section
         title={"about"}
-        description={
-          "Mahmoud is from New Cairo, Egypt, where he worked as a Flutter developer. I have\n3-years of experience in the Software Development field. ✌ He is a Problem\nsolver, geek, Hard worker, and passionate about learning and teaching the\nlatest technologies. 👨🏻‍💻 He can learn any technology in a short time and use\nit for big projects. Passionate in (Training, Public Speaking) and have some\nexperience with Leadership according to the projects and teams he has\nlead. Skilled in Mobile development, Flutter, Dart. He is seeking to create\nmobile apps that serve millions of people with awesome UI/UX to help in\ntheir life and make it more efficient and easier. ✨"
-        }
+        description={`We are a passionate team of developers and designers dedicated to building innovative software solutions. Our mission is to transform your ideas into powerful, scalable, and user-friendly products that drive business growth.
+With a focus on UI/UX design, mobile app development, and reliable hosting services, we provide end-to-end solutions tailored to meet your unique needs. We believe in collaboration, transparency, and delivering excellence in every project we undertake. `}
       />
       <Section title={"projects"}>
         <ProjectsContainer />
