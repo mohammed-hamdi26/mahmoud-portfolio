@@ -2,7 +2,7 @@ function PersonInfo() {
   return (
     <div className="flex  flex-col">
       <p className="text-text text-center lg:text-left text-4xl font-semibold">
-            Software Solution Company
+            Software Solution Team
       </p>
       <h1 className="font-extrabold text-2xl md:text-4xl text-text max-w-lg text-center lg:text-left">
         <br />
